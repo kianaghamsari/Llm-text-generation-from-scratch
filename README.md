@@ -25,5 +25,5 @@ The model was trained on a subset of the Persian Wikipedia dataset.
 - Jupyter Notebook
 
 ## Contents
-- `notebook.ipynb`: model implementation and experiments
-- `report.pdf`: detailed technical report and analysis
+- `Fifth_Assignment_LLM_Text_Generator.ipynb`: model implementation and experiments
+- `Report_LLM_Text_Generator.pdf`: detailed technical report and analysis
